@@ -13,6 +13,14 @@ body {
   margin-top: 10px;
 }
 
+.error .body {
+    padding:0%;
+}
+
+.error .body h2 {
+    margin-top:5px;
+    margin-left:5px;
+}
 
 input:focus {
     outline: 0px;
