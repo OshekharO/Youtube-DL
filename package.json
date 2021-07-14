@@ -1,5 +1,5 @@
 {
-  "name": "darlin",
+  "name": "Darlington",
   "version": "1.0.0",
   "description": "youtube downloader website",
   "main": "index.js",
@@ -15,17 +15,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/n0rmancodes/darlin.git"
+    "url": "git+https://github.com/OneFusionPlus/YouTube-Downloader.git"
   },
   "keywords": [
     "youtube",
     "downloader",
     "ytdl"
   ],
-  "author": "n0rmancodes",
+  "author": "Oshekher",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/n0rmancodes/darlin/issues"
+    "url": "https://github.com/OneFusionPlus/YouTube-Downloader/issues"
   },
-  "homepage": "https://github.com/n0rmancodes/darlin#readme"
+  "homepage": "https://github.com/OneFusionPlus/YouTube-Downloader#readme"
 }
