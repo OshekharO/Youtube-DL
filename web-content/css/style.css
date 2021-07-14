@@ -1,5 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');  /* font-family: 'Audiowide', cursive; */
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap'); /* font-family: 'Kaushan Script', cursive;*/
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap'); /*font-family: 'Righteous', cursive;*/
@@ -165,7 +164,6 @@ footer.footer .copyright {
 }
 
 
-
 #ldr {
     margin-top:15px;
 }
@@ -178,7 +176,7 @@ footer.footer .copyright {
 
 .qualityChip {
     background:#23c497;
-    color:white;
+    color:blue;
     min-height:50px;
     margin-top:10px;
     width: 70%;
@@ -209,12 +207,12 @@ footer.footer .copyright {
 }
 
 #thumbnail {
-    width:35%;
+    width:85%;
     height:auto;
 }
 
 #formatButtonList {
-    width:75%;
+    width:85%;
     padding-left:13.5%;
     padding-right:13.5%;
 }
