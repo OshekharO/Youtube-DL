@@ -1,6 +1,6 @@
 <h2 align="center">A YouTube downloading website using Nodejs.</h2>
 
-<h1 align="center">😃 YouTube Downloader 😃</h1>
+<h1 align="center">😃 YouTube DL 😃</h1>
 
 <p align="center"> ⚒ Share and cross promote this repository to help speed up the development.</p>
 
