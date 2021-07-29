@@ -1,5 +1,5 @@
 {
-  "name": "Darlington",
+  "name": "Yunus",
   "version": "1.0.0",
   "description": "youtube downloader website",
   "main": "index.js",
@@ -22,7 +22,7 @@
     "downloader",
     "ytdl"
   ],
-  "author": "Oshekher",
+  "author": "yunus25jmi",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/OneFusionPlus/YouTube-Downloader/issues"
