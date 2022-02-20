@@ -1,5 +1,5 @@
 {
-  "name": "Yunus",
+  "name": "Darlington",
   "version": "1.0.0",
   "description": "youtube downloader website",
   "main": "index.js",
@@ -15,17 +15,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneFusionPlus/YouTube-Downloader.git"
+    "url": "git+https://github.com/OshekharO/Youtube-DL.git"
   },
   "keywords": [
     "youtube",
     "downloader",
     "ytdl"
+    "YouTube downloader",
+    "Darlington",
+    "Oshekher"
+    "Saksham Shekher",
+    "Unlicensed",
+    "GitHub"
   ],
-  "author": "yunus25jmi",
+  "author": "OshekharO",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/OneFusionPlus/YouTube-Downloader/issues"
+    "url": "https://github.com/OshekharO/Youtube-DL/issues"
   },
-  "homepage": "https://github.com/OneFusionPlus/YouTube-Downloader#readme"
+  "homepage": "https://github.com/OshekharO/Youtube-DL#readme"
 }
